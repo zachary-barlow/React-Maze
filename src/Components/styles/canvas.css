@@ -1,0 +1,12 @@
+.canvas {
+  background-color: black;
+  color: white;
+  border: white;
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.cell {
+  width: 25px;
+  height: 25px;
+}
